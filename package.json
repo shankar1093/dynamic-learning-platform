@@ -1,0 +1,22 @@
+{
+  "name": "dynamic-learning-platform",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shankar1093/dynamic-learning-platform.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shankar1093/dynamic-learning-platform/issues"
+  },
+  "homepage": "https://github.com/shankar1093/dynamic-learning-platform#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
